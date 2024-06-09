@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 |Boas vindas ao meu perfil🧬
 
-<!--
-**FranciellyCamilla/FranciellyCamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Francielly
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou desenvolvendo Javascript
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+### você pode entrar em contato comigo pelo📧
+franciellylaurindo@hotmail.com
 
-Here are some ideas to get you started:
+@francielly_camilla
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![]((https://github.com/FranciellyCamilla/FranciellyCamilla/assets/171706502/490b5a6d-63ce-4bdf-8de9-308e2e224241))
+
+![image](https://github.com/FranciellyCamilla/FranciellyCamilla/assets/171706502/490b5a6d-63ce-4bdf-8de9-308e2e224241)
+
+
+
+
